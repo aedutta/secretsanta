@@ -12,6 +12,3 @@ I used the ``stmplib`` package to send out emails to people from a ``secretsanta
 4. Enable two-factor authentication for the email account. Then, generate an SMTP password. You can follow the instructions here: [Gmail SMTP setup guide](https://www.gmass.co/blog/gmail-smtp/).
 5. Modify ``secretsanta.py`` to include the sender email and SMTP password.
 6. Run the program.
-7. Happy holidays!
-# Secret Santa
-A fun and confidential way to organize Secret Santa during the holidays!
